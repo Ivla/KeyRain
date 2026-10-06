@@ -2,6 +2,8 @@
 
 Windows 桌面小遊戲：你在鍵盤上打的每個字，都會從工具列上方掉下來，彈跳、躺在工具列上，過一陣子再慢慢沉下去消失。
 
+![KeyRain 示範：打字時字從工具列上方掉落](images/demo.gif)
+
 ## 下載
 
 到 [**Releases**](https://github.com/Ivla/KeyRain/releases/latest) 下載最新的 `KeyRain.exe`，點兩下就能玩，不需要安裝任何東西。
@@ -23,6 +25,10 @@ Windows 桌面小遊戲：你在鍵盤上打的每個字，都會從工具列上
   - 畫面上的最大數量
   - 要不要顯示特殊按鍵
 - 結束遊戲：面板裡的「關閉遊戲」，或按 `Ctrl + Alt + Q`。
+
+<img src="images/panel.png" alt="KeyRain 設定面板" width="480">
+
+<sub>示範圖由 KeyRain 實際的繪圖程式產生，背景與工具列為示意。</sub>
 
 ## 更新
 
